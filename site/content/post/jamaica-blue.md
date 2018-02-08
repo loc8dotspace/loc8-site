@@ -1,25 +1,23 @@
 ---
-title: "Just in: small batch of Jamaica Blue Mountain in store next week"
+title: "How to get started in mentoring a small farmer for this season: start small, grow 2 week crops, repeat"
 date: 2017-01-04T15:04:10.000Z
-description: We’re proud to announce that we’ll be offering a small batch of Jamaica Blue Mountain coffee beans in our store next week.
+description: We have alot to look forward to. With awakening we've been shaken into action..
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Many food hubs function as simple points of transit for produce from the farmer to the purshaser. Facilitating a hub can help your budget by 10-15% depending upon the hub-farmer agreements reached.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
 
-## A little history
+## A well appreciated history of restorable hardware items
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Many projects are just waiting to come together into action. The simple art of facilitating a good connection is the entire goal of TJY. We can do it.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+>Our most important resource is the ingenuity we share.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
 
-## What you need to know before trying
+## What you need to know before committing to running a hub or when deciding to seek funding for conducting a healthy food consumption before and after family study
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+The community is depending upon you. By using this software you agree to treat other members with due respect, arrive on time, notify the group for changes or loss/ damage/ changes to any deliveries or dropoffs.  The network is here to help you in times of incliment weather, and to help you construct additional insulated or heated / cooled storage as necessary and designed with resource efficiency in mind.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+## A junkyard is not a food hub. What is the difference?
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+We are working on the software for both simultaneously, so the crossover aspects are a key element we make use of in delivering features to the OFN Lite and the Tiny Junkyard Systems.
