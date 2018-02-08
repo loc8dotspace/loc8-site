@@ -5,8 +5,8 @@ page: /products.html
 image: /img/products/jumbotron.jpg
 heading: How the Tiny Junkyard Works
 description: >-
- Tiny Junkyard is a resource to help us share what we might have for projects and share labor and ideas in completing those projects well. 
-intro:e
+      Tiny Junkyard is a resource to help us share what we might have for projects and share labor and ideas in completing those projects well. 
+intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
