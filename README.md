@@ -4,10 +4,10 @@ This is a small business template built with [Victor Hugo](https://github.com/ne
 
 ## Getting started
 
-Use our deploy button to get your own copy of the repository:
+Use our deploy button to test and even deploy ( yes, for free ),  your own copy of this repository:
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/kaldi-hugo-cms-template)
-
+,
 Once that is done, you need to setup the GitHub integration for Netlify CMS.
 
 Go to https://github.com/settings/developers and register a new application.
