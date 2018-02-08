@@ -1,14 +1,11 @@
 ---
-title: Our Coffee
+title: List your extra items for sale, community projects or trade.
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer
+heading: How the Tiny Junkyard Works
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+ Tiny Junkyard is a resource to help us share what we might have for projects and share labor and ideas in completing those projects well. 
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
